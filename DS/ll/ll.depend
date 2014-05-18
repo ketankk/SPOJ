@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379491213 source:c:\users\kunal\desktop\c+++\ds\ll\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

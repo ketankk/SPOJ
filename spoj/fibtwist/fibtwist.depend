@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1382319412 source:c:\users\kunal\desktop\c+++\spoj\fibtwist\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<map>
+	<math.h>
+

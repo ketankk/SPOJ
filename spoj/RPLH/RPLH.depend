@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380968560 source:c:\users\kunal\desktop\c+++\spoj\rplh\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

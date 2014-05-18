@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381828330 source:c:\users\kunal\desktop\c+++\spoj\tutmrbl\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1382953420 source:c:\users\kunal\desktop\ins\trans_key\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1381396116 source:c:\users\kunal\desktop\c+++\lqdcandy\main.cpp
+	<iostream>
+	<math.h>
+
+1387952854 source:c:\users\kunal\desktop\c+++\spoj\lqdcandy\main.cpp
+	<iostream>
+	<math.h>
+

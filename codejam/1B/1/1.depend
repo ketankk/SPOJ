@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1399181102 source:c:\users\kunal\desktop\c+++\codejam\1b\1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+

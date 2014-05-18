@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1381040828 source:c:\users\kunal\desktop\c+++\hpynos\main.cpp
+	<iostream>
+
+1382345989 source:c:\users\kunal\desktop\c+++\spoj\hpynos\main.cpp
+	<stdio.h>
+

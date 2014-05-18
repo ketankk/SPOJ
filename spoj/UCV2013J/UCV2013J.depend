@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1381103451 source:c:\users\kunal\desktop\c+++\ucv2013j\main.cpp
+	<iostream>
+	<math.h>
+
+1381882156 source:c:\users\kunal\desktop\c+++\spoj\ucv2013j\main.cpp
+	<iostream>
+	<math.h>
+

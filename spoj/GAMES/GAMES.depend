@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390782460 source:c:\users\kunal\desktop\c+++\spoj\games\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381738977 source:c:\users\kunal\desktop\c+++\spoj\factcg2\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395273209 source:c:\users\kunal\desktop\c+++\spoj\sngmsg\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381216841 source:c:\users\kunal\desktop\c+++\spoj\coins\main.cpp
+	<stdio.h>
+	<map>
+	<iostream>
+

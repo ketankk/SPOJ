@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1396911115 source:c:\users\kunal\desktop\c+++\nicebtre\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<stack>
+

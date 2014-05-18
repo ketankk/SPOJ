@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1395986020 source:c:\users\kunal\desktop\c+++\spoj\csquare\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<stdio.h>
+

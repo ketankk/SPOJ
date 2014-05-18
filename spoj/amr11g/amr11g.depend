@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379669419 source:c:\users\kunal\desktop\c+++\spoj\amr11g\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1380269563 source:c:\users\kunal\desktop\c+++\spoj\pir\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<stdio.h>
+

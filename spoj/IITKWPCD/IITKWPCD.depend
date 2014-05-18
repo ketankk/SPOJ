@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387615252 source:c:\users\kunal\desktop\c+++\spoj\iitkwpcd\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381542962 source:c:\users\kunal\desktop\c+++\spoj\pib\main.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1381397592 source:c:\users\kunal\desktop\c+++\triiso\main.cpp
+	<iostream>
+	<math.h>
+
+1382138582 source:c:\users\kunal\desktop\c+++\spoj\triiso\main.cpp
+	<stdio.h>
+	<math.h>
+

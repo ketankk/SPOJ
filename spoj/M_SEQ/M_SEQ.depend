@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387880820 source:c:\users\kunal\desktop\c+++\spoj\m_seq\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

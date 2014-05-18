@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380494192 source:c:\users\kunal\desktop\c+++\spoj\pucmm21\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

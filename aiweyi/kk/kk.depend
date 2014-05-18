@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1377659648 source:c:\users\kunal\desktop\c+++\aiweyi\kk\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glut.h>
+

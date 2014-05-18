@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380756515 source:c:\users\kunal\desktop\c+++\spoj\qn03\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387514021 source:c:\users\kunal\desktop\c+++\spoj\iitkwpco\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+

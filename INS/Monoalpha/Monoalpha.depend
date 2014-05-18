@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1382951132 source:c:\users\kunal\desktop\ins\monoalpha\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+

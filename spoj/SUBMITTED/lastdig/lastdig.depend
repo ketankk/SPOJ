@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1379401559 source:c:\users\kunal\desktop\c+++\spoj\lastdig\main.cpp
+	<iostream>
+	<math.h>
+

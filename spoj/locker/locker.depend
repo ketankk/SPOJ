@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380455913 source:c:\users\kunal\desktop\c+++\spoj\locker\main.cpp
+	<iostream>
+	<math.h>
+

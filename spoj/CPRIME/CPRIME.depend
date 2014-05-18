@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395988467 source:c:\users\kunal\desktop\c+++\spoj\cprime\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+

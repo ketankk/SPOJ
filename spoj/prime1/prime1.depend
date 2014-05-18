@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1379846593 source:c:\users\kunal\desktop\c+++\spoj\prime1\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+

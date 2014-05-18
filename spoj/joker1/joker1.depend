@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396421746 source:c:\users\kunal\desktop\c+++\spoj\joker1\main.cpp
+	<iostream>
+	<algorithm>
+

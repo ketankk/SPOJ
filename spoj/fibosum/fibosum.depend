@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1389484682 source:c:\users\kunal\desktop\c+++\spoj\fibosum\main.cpp
+	<stdio.h>
+	<map>
+

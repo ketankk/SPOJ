@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380725889 source:c:\users\kunal\desktop\c+++\spoj\plcnum2\main.c
+	<stdio.h>
+	<stdlib.h>
+

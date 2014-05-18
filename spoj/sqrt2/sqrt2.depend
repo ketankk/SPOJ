@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380838472 source:c:\users\kunal\desktop\c+++\spoj\sqrt2\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

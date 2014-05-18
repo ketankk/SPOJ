@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1381206712 source:c:\users\kunal\desktop\c+++\spoj\maxln\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393737767 source:c:\users\kunal\desktop\c+++\os-lab\haybale\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

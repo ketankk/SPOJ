@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380685684 source:c:\users\kunal\desktop\c+++\spoj\gcj101c\main.cpp
+	<iostream>
+	<math.h>
+

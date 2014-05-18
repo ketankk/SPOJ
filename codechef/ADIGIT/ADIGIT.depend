@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397018646 source:c:\users\kunal\desktop\c+++\codechef\adigit\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

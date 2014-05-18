@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1379473133 source:c:\users\kunal\desktop\c+++\spoj\oi\nkmarks\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380248181 source:c:\users\kunal\desktop\c+++\spoj\ascdfib\main.cpp
+	<iostream>
+	<stdio.h>
+

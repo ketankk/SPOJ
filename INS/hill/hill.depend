@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1384140933 source:c:\users\kunal\desktop\ins\hill\main.cpp
+	<stdio.h>
+	<conio.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+

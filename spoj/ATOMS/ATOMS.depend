@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392703596 source:c:\users\kunal\desktop\c+++\spoj\atoms\main.cpp
+	<iostream>
+	<math.h>
+

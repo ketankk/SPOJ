@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381309484 source:c:\users\kunal\desktop\c+++\shuti\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380028854 source:c:\users\kunal\desktop\c+++\spoj\ieeebgam\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+

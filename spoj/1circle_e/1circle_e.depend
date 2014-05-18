@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379930278 source:c:\users\kunal\desktop\c+++\spoj\1circle_e\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380101165 source:c:\users\kunal\desktop\c+++\spoj\pon2\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

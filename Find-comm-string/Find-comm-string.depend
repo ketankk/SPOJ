@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396482904 source:c:\users\kunal\desktop\c+++\find-comm-string\main.cpp
+	<iostream>
+	<string.h>
+
